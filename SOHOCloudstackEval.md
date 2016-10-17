@@ -1,3 +1,8 @@
+---
+layout: page
+title: Index
+permalink: /index/
+---
 
 # Table Of Contents
 1. [Introduction](#user-content-introduction)
