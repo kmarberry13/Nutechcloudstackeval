@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Recipe
 ---
 
 # Table Of Contents
