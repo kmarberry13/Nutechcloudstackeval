@@ -144,12 +144,14 @@ cd apache_cloudstack_4.8.0.1-src
    apt-get update
    apt-get install python-setuptools mkisofs mysql-server
    apt-get update
+   
  ```
 
 * Then you want to move into the apache cloudstack deps folder.
 
 ```
 cd deps
+
 ```
 
 * The next steps are for building dependencies that are not stored on Cloudstack's website.
