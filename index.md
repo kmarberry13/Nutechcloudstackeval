@@ -136,11 +136,15 @@ cd apache_cloudstack_4.8.0.1-src
    apt-get update
    apt-get install python-software-properties
    apt-get update
+```
 
+```
    apt-get install  ant debhelper openjdk-7-jdk tomcat6 libws-commons-util-java genisoimage
  python-mysqldb libcommons-codec-java libcommons-httpclient-java
  liblog4j1.2-java maven
+```
 
+```
    apt-get update
    apt-get install python-setuptools mkisofs mysql-server
    apt-get update   
